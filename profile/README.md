@@ -33,10 +33,12 @@ Current Todo list includes roughly :
 
 - [ ] Translating the documentation in english
 
-  - [ ] Backend
+  - [x] Backend
   - [ ] Frontend
   - [ ] Android
   - [ ] FP
+
+- [ ] Organising the documentation in some separate web page via Hugo or something
 
 - [ ] Creating a development environment with infra:
 
@@ -44,17 +46,17 @@ Current Todo list includes roughly :
   - [x] MongoDB
   - [x] Minio
   - [x] Elastic Search
-  - [ ] AF workers
-  - [ ] Frontend (needs rewrite)
+  - [ ] FP workers
+  - [x] Frontend (curently being rewriten)
 
-- [ ] Setup some production environment:
+- [x] Setup some production environment:
 
-  - [ ] RabbitMQ
-  - [ ] MongoDB
-  - [ ] Minio
-  - [ ] Elastic Search
+  - [x] RabbitMQ
+  - [x] MongoDB
+  - [x] Minio
+  - [x] Elastic Search
   - [ ] AF workers
-  - [ ] Frontend (needs rewrite)
+  - [x] Frontend (ongoing rewrite)
 
 - [ ] Frontend
   - [ ] Svelte re-write
