@@ -7,6 +7,8 @@ This Organisation holds the code that allows the uni-verse plarform to run.
 Uni-verse is initially a school project and is actively being turned into a PoC and a personnal project.
 It's not production ready and nor is it simply ready at all.
 
+Check out how it is built in [the wiki](https://github.com/uni-verse-fm/.github/wiki).
+
 </div>
 
 The aim is taking soundcloud to the next level with several features:
