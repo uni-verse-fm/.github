@@ -74,4 +74,3 @@ sequenceDiagram
     App->>+API: Queries for the results
 
 ```
-
