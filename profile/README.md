@@ -8,6 +8,8 @@
 
 Uni-verse is an audio streaming platforms made for the creators.
 
+</div>
+
 We are taking creator oriented audio streaming platforms to the next level with several features:
 
 - Audio sample based search
@@ -25,7 +27,6 @@ It's not production ready and nor is it simply ready at all.
 
 Check out how it is built in [the wiki](https://uni-verse-fm.github.io).
 
-</div>
 
 <br/>
 
