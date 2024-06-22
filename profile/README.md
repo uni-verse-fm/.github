@@ -60,9 +60,9 @@ Current Todo list includes roughly :
 
   - [x] Backend
   - [x] Frontend
-  - [ ] Android
+  - [x] Android
   - [ ] FP
-  - [ ] Automations
+  - [x] Automations
 
 - [x] [Organising the documentation in some separate web page via Hugo](https://uni-verse-fm.github.io)
 
